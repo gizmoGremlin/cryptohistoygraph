@@ -1,7 +1,7 @@
 
 crypto coin history - made with chart js and react
 <p align="center">
-  <img src="https://github.com/gizmoGremlin/cryptohistoygraph/issues/1" width="350" title="hover text">
+  <img src="https://user-images.githubusercontent.com/42254038/58838097-031a7e00-8634-11e9-892e-44644cc6802f.png">
 
 </p>
 
